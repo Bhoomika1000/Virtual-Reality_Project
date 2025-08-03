@@ -38,6 +38,9 @@ Puzzle 2 – Grab the glowing crystal ball and throw it at the door.
 Escape – If the throw has enough force, the door opens and the game ends.
 
 📂 File Structure:
+
+
+
 <img width="568" height="187" alt="image" src="https://github.com/user-attachments/assets/c543b3c0-aec7-451a-be67-12522d0f99fc" />
 
 ▶️ How to Run:

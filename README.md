@@ -1,4 +1,4 @@
-###🧠 Narnia's Escape & 🪂 Parachute Drop Simulation Projects ###
+🧠 Narnia's Escape & 🪂 Parachute Drop Simulation Projects 
 This repository contains two immersive interactive graphics projects:
 
 Narnia's Escape – A Unity-based VR puzzle adventure
@@ -10,32 +10,33 @@ Parachute Drop Simulation – A 2D OpenGL & GLUT animated environment
 Narnia’s Escape is a fantasy-inspired first-person puzzle game developed in Unity. The player begins in a tranquil mystical forest and is transported to a locked escape room. To win, the player must solve a series of logic-based and physics-based puzzles to open the final door and return home.
 
 🔧 Features:
-First-person movement and mouse-look camera controls
+- First-person movement and mouse-look camera controls
 
-Scene transitions between forest and room using triggers
+- Scene transitions between forest and room using triggers
 
-Interactive button sequence puzzle
+- Interactive button sequence puzzle
 
-Physics-based throwing puzzle (crystal ball)
+- Physics-based throwing puzzle (crystal ball)
 
-Animated door that opens upon puzzle completion
+- Animated door that opens upon puzzle completion
 
-Custom lighting and effects for key objects
+- Custom lighting and effects for key objects
 
-Built using Unity Asset Store models and ProBuilder geometry
+- Built using Unity Asset Store models and ProBuilder geometry
 
-Clean code with OnMouseDown(), Raycasting, SceneManager, and Coroutines
+- Clean code with OnMouseDown(), Raycasting, SceneManager, and Coroutines
 
 🧩 Gameplay Flow:
-The Mystical Forest – Player spawns and explores to find a large tree tunnel.
 
-Teleportation – Entering the tree teleports the player to an escape room.
+- The Mystical Forest – Player spawns and explores to find a large tree tunnel.
 
-Puzzle 1 – Press a series of buttons in the correct order.
+- Teleportation – Entering the tree teleports the player to an escape room.
 
-Puzzle 2 – Grab the glowing crystal ball and throw it at the door.
+- Puzzle 1 – Press a series of buttons in the correct order.
 
-Escape – If the throw has enough force, the door opens and the game ends.
+- Puzzle 2 – Grab the glowing crystal ball and throw it at the door.
+
+- Escape – If the throw has enough force, the door opens and the game ends.
 
 📂 File Structure:
 
@@ -45,11 +46,11 @@ Escape – If the throw has enough force, the door opens and the game ends.
 
 ▶️ How to Run:
 
-Open the Unity project in the Unity Editor.
+A) Open the Unity project in the Unity Editor.
 
-Set SampleScene as the startup scene.
+B) Set SampleScene as the startup scene.
 
-Click Play to begin.
+C) Click Play to begin.
 
 📁 Project 2: Parachute Drop Simulation (OpenGL & GLUT)
 
@@ -58,45 +59,45 @@ Click Play to begin.
 An animated 2D parachute drop simulation using OpenGL and GLUT, showcasing realistic physics like gravity, wind drift, parachute collapse, and post-landing animation. The scenery is alive with butterflies, trees, clouds, and sun animations.
 
 🔧 Features:
-Physics-driven vertical fall with gravity and landing drag
 
-Horizontal drift based on wind strength
+i) Physics-driven vertical fall with gravity and landing drag
 
-Swaying parachute animation
+ii) Horizontal drift based on wind strength
 
-Realistic parachute collapse and detachment
+iii) Swaying parachute animation
 
-Running animation after landing
+iv) Realistic parachute collapse and detachment
 
-Moving clouds and flying butterflies
+v) Running animation after landing
 
-Scenic ground layers with hills, trees, flowers, and sky
+vi) Moving clouds and flying butterflies
 
-Wind strength adjustable via keyboard
+vii) Scenic ground layers with hills, trees, flowers, and sky
 
-Reset animation anytime
+viii) Wind strength adjustable via keyboard
+
+ix) Reset animation anytime
 
 🎮 Controls:
-Key	Function
-R	Reset animation
-+	Increase wind strength
--	Decrease wind strength
-Esc	Exit
+
+
+<img width="603" height="245" alt="image" src="https://github.com/user-attachments/assets/70a30582-a951-45b9-a7aa-90b03fd52454" />
 
 🛠 Technologies Used:
-OpenGL + GLUT for rendering
 
-C++ for logic and animation
+- OpenGL + GLUT for rendering
 
-Sin/Cos-based motion
+- C++ for logic and animation
 
-Custom physics system
+- Sin/Cos-based motion
 
-Procedural butterfly animation
+- Custom physics system
 
-Transparent clouds via alpha blending
+- Procedural butterfly animation
 
-Hierarchical character rendering
+- Transparent clouds via alpha blending
+
+- Hierarchical character rendering
 
 📦 File Structure:
 

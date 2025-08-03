@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\VR_MiniProject\\VR_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FCA7CE5D-11FB-AA44-0260-7B4EDF71D305}|Assembly-CSharp.csproj|C:\\VR_MiniProject\\VR_Project\\assets\\escaperoommanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCA7CE5D-11FB-AA44-0260-7B4EDF71D305}|Assembly-CSharp.csproj|solutionrelative:assets\\escaperoommanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCA7CE5D-11FB-AA44-0260-7B4EDF71D305}|Assembly-CSharp.csproj|C:\\VR_MiniProject\\VR_Project\\assets\\doorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCA7CE5D-11FB-AA44-0260-7B4EDF71D305}|Assembly-CSharp.csproj|solutionrelative:assets\\doorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCA7CE5D-11FB-AA44-0260-7B4EDF71D305}|Assembly-CSharp.csproj|c:\\vr_miniproject\\vr_project\\assets\\throwableball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCA7CE5D-11FB-AA44-0260-7B4EDF71D305}|Assembly-CSharp.csproj|solutionrelative:assets\\throwableball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCA7CE5D-11FB-AA44-0260-7B4EDF71D305}|Assembly-CSharp.csproj|C:\\VR_MiniProject\\VR_Project\\assets\\simpleinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCA7CE5D-11FB-AA44-0260-7B4EDF71D305}|Assembly-CSharp.csproj|solutionrelative:assets\\simpleinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCA7CE5D-11FB-AA44-0260-7B4EDF71D305}|Assembly-CSharp.csproj|C:\\VR_MiniProject\\VR_Project\\assets\\grassflowers\\simplefpscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCA7CE5D-11FB-AA44-0260-7B4EDF71D305}|Assembly-CSharp.csproj|solutionrelative:assets\\grassflowers\\simplefpscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCA7CE5D-11FB-AA44-0260-7B4EDF71D305}|Assembly-CSharp.csproj|C:\\VR_MiniProject\\VR_Project\\assets\\escaperoomspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCA7CE5D-11FB-AA44-0260-7B4EDF71D305}|Assembly-CSharp.csproj|solutionrelative:assets\\escaperoomspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCA7CE5D-11FB-AA44-0260-7B4EDF71D305}|Assembly-CSharp.csproj|C:\\VR_MiniProject\\VR_Project\\assets\\scenetransition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCA7CE5D-11FB-AA44-0260-7B4EDF71D305}|Assembly-CSharp.csproj|solutionrelative:assets\\scenetransition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\VR_MiniProject\\VR_Project\\Assets\\GrassFlowers\\SimpleController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\GrassFlowers\\SimpleController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCA7CE5D-11FB-AA44-0260-7B4EDF71D305}|Assembly-CSharp.csproj|C:\\VR_MiniProject\\VR_Project\\assets\\simplemovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCA7CE5D-11FB-AA44-0260-7B4EDF71D305}|Assembly-CSharp.csproj|solutionrelative:assets\\simplemovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DoorController.cs",
+              "DocumentMoniker": "C:\\VR_MiniProject\\VR_Project\\Assets\\DoorController.cs",
+              "RelativeDocumentMoniker": "Assets\\DoorController.cs",
+              "ToolTip": "C:\\VR_MiniProject\\VR_Project\\Assets\\DoorController.cs",
+              "RelativeToolTip": "Assets\\DoorController.cs",
+              "ViewState": "AgIAABMBAAAAAAAAAAAUwFgBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T11:08:49.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ThrowableBall.cs",
+              "DocumentMoniker": "C:\\VR_MiniProject\\VR_Project\\Assets\\ThrowableBall.cs",
+              "RelativeDocumentMoniker": "Assets\\ThrowableBall.cs",
+              "ToolTip": "C:\\VR_MiniProject\\VR_Project\\Assets\\ThrowableBall.cs",
+              "RelativeToolTip": "Assets\\ThrowableBall.cs",
+              "ViewState": "AgIAAOEAAAAAAAAAAAAuwPsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T11:03:13.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EscapeRoomSpawner.cs",
+              "DocumentMoniker": "C:\\VR_MiniProject\\VR_Project\\Assets\\EscapeRoomSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\EscapeRoomSpawner.cs",
+              "ToolTip": "C:\\VR_MiniProject\\VR_Project\\Assets\\EscapeRoomSpawner.cs",
+              "RelativeToolTip": "Assets\\EscapeRoomSpawner.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T09:20:11.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SimpleInteraction.cs",
+              "DocumentMoniker": "C:\\VR_MiniProject\\VR_Project\\Assets\\SimpleInteraction.cs",
+              "RelativeDocumentMoniker": "Assets\\SimpleInteraction.cs",
+              "ToolTip": "C:\\VR_MiniProject\\VR_Project\\Assets\\SimpleInteraction.cs",
+              "RelativeToolTip": "Assets\\SimpleInteraction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T08:58:55.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EscapeRoomManager.cs",
+              "DocumentMoniker": "C:\\VR_MiniProject\\VR_Project\\Assets\\EscapeRoomManager.cs",
+              "RelativeDocumentMoniker": "Assets\\EscapeRoomManager.cs",
+              "ToolTip": "C:\\VR_MiniProject\\VR_Project\\Assets\\EscapeRoomManager.cs",
+              "RelativeToolTip": "Assets\\EscapeRoomManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJUAAADSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T08:55:26.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SceneTransition.cs",
+              "DocumentMoniker": "C:\\VR_MiniProject\\VR_Project\\Assets\\SceneTransition.cs",
+              "RelativeDocumentMoniker": "Assets\\SceneTransition.cs",
+              "ToolTip": "C:\\VR_MiniProject\\VR_Project\\Assets\\SceneTransition.cs",
+              "RelativeToolTip": "Assets\\SceneTransition.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T08:36:55.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SimpleFPSController.cs",
+              "DocumentMoniker": "C:\\VR_MiniProject\\VR_Project\\Assets\\GrassFlowers\\SimpleFPSController.cs",
+              "RelativeDocumentMoniker": "Assets\\GrassFlowers\\SimpleFPSController.cs",
+              "ToolTip": "C:\\VR_MiniProject\\VR_Project\\Assets\\GrassFlowers\\SimpleFPSController.cs",
+              "RelativeToolTip": "Assets\\GrassFlowers\\SimpleFPSController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T13:37:40.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SimpleController.cs",
+              "DocumentMoniker": "C:\\VR_MiniProject\\VR_Project\\Assets\\GrassFlowers\\SimpleController.cs",
+              "RelativeDocumentMoniker": "Assets\\GrassFlowers\\SimpleController.cs",
+              "ToolTip": "C:\\VR_MiniProject\\VR_Project\\Assets\\GrassFlowers\\SimpleController.cs",
+              "RelativeToolTip": "Assets\\GrassFlowers\\SimpleController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T13:33:04.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SimpleMovement.cs",
+              "DocumentMoniker": "C:\\VR_MiniProject\\VR_Project\\Assets\\SimpleMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\SimpleMovement.cs",
+              "ToolTip": "C:\\VR_MiniProject\\VR_Project\\Assets\\SimpleMovement.cs",
+              "RelativeToolTip": "Assets\\SimpleMovement.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T11:39:48.157Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

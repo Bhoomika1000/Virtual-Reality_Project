@@ -1,4 +1,4 @@
-🧠 Narnia's Escape & 🪂 Parachute Drop Simulation Projects
+###🧠 Narnia's Escape & 🪂 Parachute Drop Simulation Projects ###
 This repository contains two immersive interactive graphics projects:
 
 Narnia's Escape – A Unity-based VR puzzle adventure
@@ -44,6 +44,7 @@ Escape – If the throw has enough force, the door opens and the game ends.
 <img width="568" height="187" alt="image" src="https://github.com/user-attachments/assets/c543b3c0-aec7-451a-be67-12522d0f99fc" />
 
 ▶️ How to Run:
+
 Open the Unity project in the Unity Editor.
 
 Set SampleScene as the startup scene.
@@ -53,6 +54,7 @@ Click Play to begin.
 📁 Project 2: Parachute Drop Simulation (OpenGL & GLUT)
 
 🌤 Description:
+
 An animated 2D parachute drop simulation using OpenGL and GLUT, showcasing realistic physics like gravity, wind drift, parachute collapse, and post-landing animation. The scenery is alive with butterflies, trees, clouds, and sun animations.
 
 🔧 Features:
@@ -98,14 +100,14 @@ Hierarchical character rendering
 
 📦 File Structure:
 
-VR_OpenGL_Project/
-├── OpenGL_Project.cpp      # Full source code
-├── textures/               # (optional) asset folder for future use
-└── README.md               # This file
+
+<img width="705" height="137" alt="image" src="https://github.com/user-attachments/assets/70f310cf-d6be-4084-9100-cc8eb36dacb6" />
+
 ✅ How to Run:
 Ensure OpenGL and GLUT are installed on your system.
 
 Compile the program:
 
-g++ OpenGL_Project.cpp -lGL -lGLU -lglut -o parachute_sim
-./parachute_sim
+
+<img width="608" height="67" alt="image" src="https://github.com/user-attachments/assets/a0f45604-274c-4bcc-9ef0-38bda58beed2" />
+
